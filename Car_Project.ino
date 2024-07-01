@@ -97,12 +97,6 @@ void left()
 
 }
 
-// Button 5
-void automatic()
-{
-
-}
-
 // Button 6
 void right()
 {
