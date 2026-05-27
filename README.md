@@ -8,3 +8,6 @@ Motor Driver Models
 2. YFROBOT PM-R3
 
 Demonstration Video: https://youtube.com/shorts/S5rXyjdSgPQ
+
+## Demo
+[![Demo Video](https://img.youtube.com/vi/S5rXyjdSgPQ/hqdefault.jpg)](https://youtube.com/shorts/S5rXyjdSgPQ)
